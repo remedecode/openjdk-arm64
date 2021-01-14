@@ -1,0 +1,1 @@
+FROM arm64v8/openjdk:11.0.9-jdk-slim-buster
